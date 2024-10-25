@@ -1,0 +1,10 @@
+.textbox
+{
+  width: 150px;
+  border-radius: 10px;
+}
+.lable
+{
+  border-radius: 10px;
+  background-color: beige;
+}

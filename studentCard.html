@@ -4,32 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student card</title>
+    <style>
+   
+    </style>
+    <link rel="stylesheet" href="site.css">
 </head>
 <body>
-    <table border="2" bgcolor ="#D3D3D3" align="center" style="margin-top: 100px;">
+    <table border="2" bgcolor ="#D3D3D3" align="center" style="margin-top: 100px; border-radius: 10px;">
         <tr>
-            <td rowspan="2"><img src="logo.png" height="80" width="100" alt=""></td>
+            <td rowspan="2" style="border-radius: 10px;" ><img src="logo.png" height="80" width="100" alt="" style="border-radius: 10px;"></td>
         </tr>
      
         <tr>
-        <td  colspan="3" align="center" bgcolor="#D3D3D3"><h1>Student Card</h1></td>
+        <td  colspan="3" align="center" bgcolor="#D3D3D3" style="border-right: 40px;"><h1>Student Card</h1></td>
        </tr>
         <tr>
-          <td rowspan="7"><img src="pic/WhatsApp Image 2024-10-25 at 03.01.13_37ca59ee.jpg" height="120" width="100" alt=""></td>
-          <th>Name:</th>
-          <td style="width: 150px;" align="center" >Habibullah</td>
+          <td rowspan="7"><img src="pic/WhatsApp Image 2024-10-25 at 03.01.13_37ca59ee.jpg" height="120" width="100" alt="" style=""></td>
+          <th class="lable" >Name:</th>
+          <td class="textbox" align="center" >Habibullah</td>
         </tr>
         <tr>
-          <th  >Roll NO:</th>
-          <td align="center">20</td>
+          <th class="lable" >Roll NO:</th>
+          <td align="center" class="textbox">20</td>
         </tr>
         <tr>
-            <th>Class:</th>
-            <td align="center">BSCS</td>
+            <th class="lable">Class:</th>
+            <td align="center" class="textbox">BSCS</td>
         </tr>
         <tr>
-            <th>Session:</th>
-            <td align="center">2021-25</td>
+            <th style="border-radius: 10px; background-color: beige;">Session:</th>
+            <td align="center" class="textbox">2021-25</td>
+        </tr>
+        <tr>
+          <th style="background-color: blue;" >CNIC:</th>
+          <td><input type="text"></td>
         </tr>
       </table>
       

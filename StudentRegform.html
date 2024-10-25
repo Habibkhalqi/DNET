@@ -4,51 +4,91 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Registration form </title>
+    <style>
+        .table
+        {
+            
+            background-color: rgb(169, 169, 169);
+            
+            margin-top: 70px;
+        }
+        .mlogo
+        {
+         height: 100px;
+         width: 100px;   
+        }
+        .textbox
+        {
+        background-color: rgb(189, 176, 176);
+        border-radius: 10px;
+        }
+        .header
+        {
+            background-color: azure;
+        }
+        .btn
+        {
+            height: 40px;
+            border-radius: 10px;
+            border-width: 10px;
+
+        }
+    </style>
 </head>
 <body >
-    <table border="2px" bgcolor="blackdark" align="center" style="margin-top: 70px;">
-      <tr>
-        <td bgcolor="yellow" colspan="4" align="center"><img src="logo.png" height="100px" width="100px" alt=""><h3>Student Information</h3></td>
-      </tr>
+    <table align="center" border="2px" class="table">
+    
+        <tr >
+            <td class="header"  align="center" colspan="4"  ><h3>Student Information</h3></td>
+       
+    </tr>
         <tr>
-            <th bgcolor="green">Enter Your Name:</th>
+            <th class="textbox" >Enter Your Name:</th>
             <td><input type="text"></td>
-            <th bgcolor="green"> Enter Your Father Name:</th>
+            <th class="textbox" > Enter Your Father Name:</th>
             <td><input type="text" name="" id=""></td>
             
         </tr>
         <tr>
-            <th bgcolor="green">Enter DOB:</th>
+            <th class="textbox" >Enter DOB:</th>
             <td><input type="text"></td>
-            <th bgcolor="green">Student ID:</th>
+            <th class="textbox" >Student ID:</th>
             <td><input type="text" name="" id=""></td>
         </tr>
         <tr>
-            <td bgcolor="red" colspan="4" align="center"><h3>Address</h3></td>
+            <td class="header"  colspan="4" align="center"><h3>Address</h3></td>
         </tr>
         <tr>
-            <th bgcolor="green">street Address:</th>
+            <th class="textbox" >street Address:</th>
             <td><input type="text"></td>
-            <th bgcolor="green">city:</th>
+            <th class="textbox" >city:</th>
             <td></td>
 
         </tr>
         <tr>
-            <th bgcolor="green">State/Province:</th>
+            <th class="textbox" >State/Province:</th>
             <td><input type="text"></td>
-            <th bgcolor="green">Country:</th>
+            <th class="textbox" >Country:</th>
             <td><input type="text"></td>
         </tr>
         <tr>
-            <td bgcolor="white-dark" colspan="4" align="center" ><h3>Contact Email</h3></td>
+            <td class="header"  colspan="4" align="center" ><h3>Contact Email</h3></td>
 
         </tr>
         <tr>
-            <th bgcolor="green">Email:</th>
+            <th class="textbox" >Email:</th>
             <td><input type="text" name="" id=""></td>
+            <th class="textbox" >Contact No:</th>
+            <td><input type="text"></td>
         </tr>
-
-
+        <tr>
+            <td><input type="file"></td>
+        </tr>
+        <tr>
+            <td align="center" colspan="4">
+                <input type="submit" class="btn" value="Register Now">
+            </td>
+        </tr>
     </table>
 </body>
 </html>
