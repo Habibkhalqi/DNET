@@ -1,0 +1,15 @@
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\bin\Debug\net8.0\Csharpfistcode.exe
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\bin\Debug\net8.0\Csharpfistcode.deps.json
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\bin\Debug\net8.0\Csharpfistcode.runtimeconfig.json
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\bin\Debug\net8.0\Csharpfistcode.dll
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\bin\Debug\net8.0\Csharpfistcode.pdb
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.AssemblyInfoInputs.cache
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.AssemblyInfo.cs
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.csproj.CoreCompileInputs.cache
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.sourcelink.json
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.dll
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\refint\Csharpfistcode.dll
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.pdb
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\Csharpfistcode.genruntimeconfig.cache
+D:\Github file\Web_development\Csharpfistcode\Csharpfistcode\obj\Debug\net8.0\ref\Csharpfistcode.dll
