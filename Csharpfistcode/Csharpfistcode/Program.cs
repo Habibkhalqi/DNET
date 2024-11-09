@@ -7,6 +7,7 @@ void line()
 Console.WriteLine("<---------Calculator--------->\n");
 line();
 string i;
+//start while loop
 do
 {
     int valueOne;
@@ -20,8 +21,28 @@ do
     line();
     int choice = int.Parse(Console.ReadLine());
     line();
+    switch(choice)
+    {
+        case 1:
+            int sum = valueOne + valueTwo;
+            Console.WriteLine("Sum Of Two Number Is:" + sum);
+            break;
+
+        case 2:
+            int sub = valueOne - valueTwo;
+            Console.WriteLine("Sum Of Two Number Is:" + sub);
+            break;
+        case 3:
+            int mul = valueOne * valueTwo;
+            Console.WriteLine("Sum Of Two Number Is:" + mul);
+            break;
+        case 4:
+            int divid = valueOne / valueTwo;
+            Console.WriteLine("Sum Of Two Number Is:" + divid);
+            break;
+    }
     
-    if (choice == 1)
+  /*  if (choice == 1)
     {
         int sum = valueOne + valueTwo;
         Console.WriteLine("Sum Of Two Number Is:" + sum);
@@ -40,10 +61,18 @@ do
     {
         int divid = valueOne / valueTwo;
         Console.WriteLine("Sum Of Two Number Is:" + divid);
-    }
+    }*/
     Console.WriteLine("Do You Want To Continue Y/N");
     i= Console.ReadLine();
 }
 while(i=="Y" || i=="y");
+//end of while loop
 Console.WriteLine("Thanks for Using Me");
+line();
 Console.ReadLine();
+//for loop start
+int numb;
+for ( numb = 0; numb < 10; numb++)
+{
+    Console.WriteLine("Hellow World");
+}
