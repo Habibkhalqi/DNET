@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2689a098414d577fae25e721a06033376531b8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e814e12ca230cd6bba089d29ee2881d6cfdd8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using Csharpfistcode;
+using System.Diagnostics.CodeAnalysis;
 
 void line()
 {
@@ -15,6 +16,7 @@ do
     Console.Write("Enter ValueOne:");
     valueOne = int.Parse(Console.ReadLine());
     Console.Write("Enter ValueTwo:");
+    
     valueTwo = int.Parse(Console.ReadLine());
     line();
     Console.WriteLine("Enter Your Choice:\n1:ADD\n2:SUB\n3:MUL\n4:D DIVID");
@@ -69,10 +71,15 @@ while(i=="Y" || i=="y");
 //end of while loop
 Console.WriteLine("Thanks for Using Me");
 line();
-Console.ReadLine();
+
 //for loop start
 int numb;
 for ( numb = 0; numb < 10; numb++)
 {
     Console.WriteLine("Hellow World");
 }
+
+//Classes work start
+age myage = new age();
+myage.agee(2024, 2003);
+Console.ReadLine() ;
