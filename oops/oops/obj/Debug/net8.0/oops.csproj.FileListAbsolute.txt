@@ -1,0 +1,15 @@
+D:\Github file\Web_development\oops\oops\bin\Debug\net8.0\oops.exe
+D:\Github file\Web_development\oops\oops\bin\Debug\net8.0\oops.deps.json
+D:\Github file\Web_development\oops\oops\bin\Debug\net8.0\oops.runtimeconfig.json
+D:\Github file\Web_development\oops\oops\bin\Debug\net8.0\oops.dll
+D:\Github file\Web_development\oops\oops\bin\Debug\net8.0\oops.pdb
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.AssemblyInfo.cs
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.sourcelink.json
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.dll
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\refint\oops.dll
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.pdb
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
+D:\Github file\Web_development\oops\oops\obj\Debug\net8.0\ref\oops.dll
