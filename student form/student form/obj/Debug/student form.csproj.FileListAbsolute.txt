@@ -1,0 +1,27 @@
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.csproj.AssemblyReference.cache
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.csproj.SuggestedBindingRedirects.cache
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.exe.config
+D:\Github file\Web_development\student form\student form\obj\Debug\student_form.Form1.resources
+D:\Github file\Web_development\student form\student form\obj\Debug\student_form.Properties.Resources.resources
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.csproj.GenerateResource.cache
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.csproj.CoreCompileInputs.cache
+D:\Github file\Web_development\student form\student form\bin\Debug\student form.exe.config
+D:\Github file\Web_development\student form\student form\bin\Debug\student form.exe
+D:\Github file\Web_development\student form\student form\bin\Debug\student form.pdb
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.SqlServer.ExpressionTask.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.ValueTuple.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.Memory.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.Buffers.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Github file\Web_development\student form\student form\bin\Debug\System.Numerics.Vectors.dll
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.csproj.CopyComplete
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.exe
+D:\Github file\Web_development\student form\student form\obj\Debug\student form.pdb

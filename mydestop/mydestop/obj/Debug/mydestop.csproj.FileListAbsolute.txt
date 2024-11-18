@@ -1,0 +1,10 @@
+D:\Github file\Web_development\mydestop\mydestop\bin\Debug\mydestop.exe.config
+D:\Github file\Web_development\mydestop\mydestop\bin\Debug\mydestop.exe
+D:\Github file\Web_development\mydestop\mydestop\bin\Debug\mydestop.pdb
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.csproj.AssemblyReference.cache
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.Form1.resources
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.Properties.Resources.resources
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.csproj.GenerateResource.cache
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.csproj.CoreCompileInputs.cache
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.exe
+D:\Github file\Web_development\mydestop\mydestop\obj\Debug\mydestop.pdb

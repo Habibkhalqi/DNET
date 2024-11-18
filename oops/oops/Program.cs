@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using Microsoft.VisualBasic;
 using oops;
-
-Function_override ov = new();
-ov.calculator(12, 13, 14);
-ov.Result = 450;
-ov.resultshow();
+using System.Reflection;
+Students s = new();
+s.ShowResults("habibullah", "abdul khaliq", 12, "03408907705");
+s.GPA = int.Parse(Console.WriteLine(3));
