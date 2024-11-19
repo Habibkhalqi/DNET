@@ -1,0 +1,14 @@
+D:\Web_development\library\library\bin\Debug\net8.0\library.exe
+D:\Web_development\library\library\bin\Debug\net8.0\library.deps.json
+D:\Web_development\library\library\bin\Debug\net8.0\library.runtimeconfig.json
+D:\Web_development\library\library\bin\Debug\net8.0\library.dll
+D:\Web_development\library\library\bin\Debug\net8.0\library.pdb
+D:\Web_development\library\library\obj\Debug\net8.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_development\library\library\obj\Debug\net8.0\library.AssemblyInfoInputs.cache
+D:\Web_development\library\library\obj\Debug\net8.0\library.AssemblyInfo.cs
+D:\Web_development\library\library\obj\Debug\net8.0\library.csproj.CoreCompileInputs.cache
+D:\Web_development\library\library\obj\Debug\net8.0\library.dll
+D:\Web_development\library\library\obj\Debug\net8.0\refint\library.dll
+D:\Web_development\library\library\obj\Debug\net8.0\library.pdb
+D:\Web_development\library\library\obj\Debug\net8.0\library.genruntimeconfig.cache
+D:\Web_development\library\library\obj\Debug\net8.0\ref\library.dll

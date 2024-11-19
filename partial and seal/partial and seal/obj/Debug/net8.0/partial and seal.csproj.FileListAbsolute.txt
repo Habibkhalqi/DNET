@@ -1,0 +1,14 @@
+D:\Web_development\partial and seal\partial and seal\bin\Debug\net8.0\partial and seal.exe
+D:\Web_development\partial and seal\partial and seal\bin\Debug\net8.0\partial and seal.deps.json
+D:\Web_development\partial and seal\partial and seal\bin\Debug\net8.0\partial and seal.runtimeconfig.json
+D:\Web_development\partial and seal\partial and seal\bin\Debug\net8.0\partial and seal.dll
+D:\Web_development\partial and seal\partial and seal\bin\Debug\net8.0\partial and seal.pdb
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.AssemblyInfoInputs.cache
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.AssemblyInfo.cs
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.csproj.CoreCompileInputs.cache
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.dll
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\refint\partial and seal.dll
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.pdb
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\partial and seal.genruntimeconfig.cache
+D:\Web_development\partial and seal\partial and seal\obj\Debug\net8.0\ref\partial and seal.dll

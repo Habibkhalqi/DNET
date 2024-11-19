@@ -1,0 +1,14 @@
+D:\Web_development\library\static and abstract\bin\Debug\net8.0\static and abstract.exe
+D:\Web_development\library\static and abstract\bin\Debug\net8.0\static and abstract.deps.json
+D:\Web_development\library\static and abstract\bin\Debug\net8.0\static and abstract.runtimeconfig.json
+D:\Web_development\library\static and abstract\bin\Debug\net8.0\static and abstract.dll
+D:\Web_development\library\static and abstract\bin\Debug\net8.0\static and abstract.pdb
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.AssemblyInfoInputs.cache
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.AssemblyInfo.cs
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.csproj.CoreCompileInputs.cache
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.dll
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\refint\static and abstract.dll
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.pdb
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\static and abstract.genruntimeconfig.cache
+D:\Web_development\library\static and abstract\obj\Debug\net8.0\ref\static and abstract.dll
