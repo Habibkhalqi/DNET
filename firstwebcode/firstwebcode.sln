@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstwebcode", "firstwebcode\firstwebcode.csproj", "{717EF1A2-07B0-4851-A192-F948CF941845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParacticeCode", "ParacticeCode\ParacticeCode.csproj", "{5208B4F4-EB73-4CC9-A31D-77112CAF642C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717EF1A2-07B0-4851-A192-F948CF941845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717EF1A2-07B0-4851-A192-F948CF941845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717EF1A2-07B0-4851-A192-F948CF941845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717EF1A2-07B0-4851-A192-F948CF941845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5208B4F4-EB73-4CC9-A31D-77112CAF642C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5208B4F4-EB73-4CC9-A31D-77112CAF642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5208B4F4-EB73-4CC9-A31D-77112CAF642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5208B4F4-EB73-4CC9-A31D-77112CAF642C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

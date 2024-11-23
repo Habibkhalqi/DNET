@@ -1,0 +1,67 @@
+﻿@page
+@using System.Security.Cryptography
+@model IndexModel
+
+<div class="row">
+    <div class="col-md-10 justify-content-center">
+        <form method="post">
+            <table border="1px">
+                <tr>
+                    <th colspan="2px">Student Registration</th>
+                </tr>
+                <tr>
+                    <td>Name:</td>
+                    <td>
+                        <input asp-for="std.name" >
+                    </td>
+                </tr>
+                <tr>
+                    <td>FatherName:</td>
+                    <td>
+                        <input asp-for="std.fathername" >
+                    </td>
+                </tr>
+                <tr>
+                    <td>CNIC:</td>
+                    <td>
+                        <input asp-for="std.cnic" >
+                    </td>
+                </tr>
+                <tr>
+                    <td>RollNo:</td>
+                    <td>
+                        <input asp-for="std.rollno" >
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2px" align="center">
+                        <input type="submit" class="btn btn-primary" value="Register Student">
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <hr>
+        <table>
+            <tr>
+                <th colspan="2px">Student Registration</th>
+            </tr>
+            
+            <tr>
+                <td><b>Your Name is:</b></td>
+                <td>@ViewData["name"]</td>
+            </tr>
+            <tr>
+                <td><b>Your Father Name is:</b></td>
+                <td>@ViewData["fathername"]</td>
+            </tr>
+            <tr>
+                <td><b>Your CNIC is:</b></td>
+                <td>@ViewData["cnic"]</td>
+            </tr>
+            <tr>
+                <td><b>Your RollNo is:</b></td>
+                <td>@ViewData["rollno"]</td>
+            </tr>
+        </table>
+    </div>
+</div>
