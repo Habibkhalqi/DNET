@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web_development\\firstwebcode\\ParacticeCode\\ParacticeCode.csproj",
+      "projectUniqueName": "D:\\Github file\\Web_development\\firstwebcode\\ParacticeCode\\ParacticeCode.csproj",
       "projectName": "ParacticeCode",
-      "projectPath": "D:\\Web_development\\firstwebcode\\ParacticeCode\\ParacticeCode.csproj",
+      "projectPath": "D:\\Github file\\Web_development\\firstwebcode\\ParacticeCode\\ParacticeCode.csproj",
       "packagesPath": "C:\\Users\\Habib Khalqi\\.nuget\\packages\\",
-      "outputPath": "D:\\Web_development\\firstwebcode\\ParacticeCode\\obj\\",
+      "outputPath": "D:\\Github file\\Web_development\\firstwebcode\\ParacticeCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Habib Khalqi\\AppData\\Roaming\\NuGet\\NuGet.Config",

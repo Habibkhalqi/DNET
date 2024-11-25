@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParacticeCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432daa6798aadc59fdea6d7efa53bf314ec182ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParacticeCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParacticeCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

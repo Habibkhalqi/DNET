@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21666589a4c0ae34b07ef69457d62668de1338f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432daa6798aadc59fdea6d7efa53bf314ec182ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharpfistcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

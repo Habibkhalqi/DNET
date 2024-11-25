@@ -1,14 +1,16 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ParacticeCode.Model;
 
 namespace ParacticeCode.Pages;
 
 public class IndexModel : PageModel
 {
-    public string  name { get; set; }
-
-    public void OnGet(string _name)
+    public StudentDetails sd { get; set; }
+    public void OnPost(StudentDetails sd)
     {
-        name = string.IsNullOrEmpty(_name) ? "habib" : _name;
+        
+        ViewData["Name"] = sd.name;
+        ViewData["FatherName"] = sd.fathername;
     }
 }

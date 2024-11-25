@@ -1,0 +1,80 @@
+﻿@page
+@using Registration_form.Model
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div>
+    
+    <div class="row">
+        <div class="col-3">
+          
+
+        </div>
+        <div class="col-6">
+           
+            <form method="post" class="text-center border-2 " style=" border: 2px;  border-radius: 72px 24px 88px 24px;
+-webkit-border-radius: 72px 24px 88px 24px;
+-moz-border-radius: 72px 24px 88px 24px; box-shadow: 12px 19px 35px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 12px 19px 35px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px 19px 35px -1px rgba(0,0,0,0.75);">
+                <h2 style="color:red">Student Registration</h2>
+                <hr>
+                <div><b>Name:</b></div>
+                <input asp-for="SD.name" class="text-center" placeholder="Enter Your Name"  >
+                <br>
+                <div><b>FatherName:</b></div>
+                <input asp-for="SD.fathername" class="text-center" placeholder="Enter FatherName" >
+                <br>
+                <div><b>CNIC:</b></div>
+                <input asp-for="SD.cnic" class="text-center" placeholder="Enter Your CNIC" >
+                <br>
+                <div><b>RollNo:</b></div>
+                <input asp-for="SD.rollno" class="text-center"  placeholder="Enter Your RollNo" >
+                <br>
+                <div><b>Class:</b></div>
+                <input asp-for="SD.classs" class="text-center" placeholder="Enter Your Class" >
+                <br>
+                <br>
+                <div>
+                    <input type="submit" class="btn btn-primary" value="Register Student"  >
+                </div>
+                <br>
+            </form>
+        </div>
+        <div class="col-3">
+
+        </div>
+    </div>
+</div>
+<hr>
+@if (ViewData["name"] != null)
+{
+    <table>
+        <div><h1>Student Records</h1></div>
+        <hr>
+        <tr>
+            <td><b>Name:</b></td>
+            <td>@ViewData["Name"]</td>
+        </tr>
+        <tr>
+            <td><b>FatherName:</b></td>
+            <td>@ViewData["FatherName"]</td>
+        </tr>
+        <tr>
+            <td><b>CNIC:</b></td>
+            <td>@ViewData["CNIC"]</td>
+        </tr>
+        <tr>
+            <td><b>Class:</b></td>
+            <td>@ViewData["Classs"]</td>
+        </tr>
+        <tr>
+            <td><b>RollNO:</b></td>
+            <td>@ViewData["RollNO"]</td>
+        </tr>
+
+    </table>
+}
+
+    

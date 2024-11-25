@@ -1,5 +1,36 @@
 ﻿@page
 @model IndexModel
+
+    <div>
+        <div class="row">
+            <div class="col-3"></div>
+            <div class="col-6">
+                <form method="post" class="border">
+                    <h2 class="text-center">Student Record</h2>
+                    <hr>
+                    <div>Name:</div>
+                    <div><input asp-for="sd.name" placeholder="Enter Your Name"  ></div>
+                    <br>
+                    <div>FatherName:</div>
+                    <div><input asp-for="sd.fathername" placeholder="Enter FatherName" ></div>
+                    <br>
+                    <input type="submit" class="btn btn-primary" value="Registration Record">
+                </form>
+            </div>
+            <div class="col-3"></div>
+        </div>
+        
+    </div>
+<hr>
+<hr>
 <div>
-    Hellow @Model.name 
+    <tr>
+        <td>Name:</td>
+        <td>@ViewData["name"]</td>
+       
+    </tr>
+    <tr>
+        <td>FatherName:</td>
+        <td>@ViewData["fathername"]</td>
+    </tr>
 </div>
