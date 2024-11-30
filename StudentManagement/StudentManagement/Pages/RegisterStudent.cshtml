@@ -1,0 +1,42 @@
+@page
+@model StudentManagement.Pages.RegisterStudent
+
+<div class="row justify-content-center">
+    <div class="col-md-8 justify-content-center">
+        <h2>Please Enter Student Details</h2>
+        <form class="row g-3" method="post">
+            <div class="col-md-6">
+                <label  class="form-label">Name</label>
+                <input class="form-control" asp-for="student.name">
+            </div>
+            <div class="col-md-6">
+                <label  class="form-label">FatherName</label>
+                <input  class="form-control" asp-for="student.FatherName">
+            </div>
+            <div class="col-12">
+                <label class="form-label">Class</label>
+                <input class="form-control" asp-for="student.Class">
+            </div>
+            <div class="col-12">
+                <label  class="form-label">Email</label>
+                <input class="form-control" asp-for="student.Email" >
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Phone</label>
+                <input  class="form-control" asp-for="student.Phone" >
+            </div>
+            <div class="col-md-4">
+                <label  class="form-label">Semester</label>
+                <input class="form-control" asp-for="student.Semester">
+            </div>
+            <div class="col-md-2">
+                <label  class="form-label">RollNO</label>
+                <input  class="form-control" asp-for="student.RollNo">
+            </div>
+            
+            <div class="col-12">
+                <input type="submit" value="Register Student" class="btn btn-success">
+            </div>
+        </form>
+    </div>
+</div>
