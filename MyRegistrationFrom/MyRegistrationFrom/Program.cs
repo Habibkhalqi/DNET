@@ -1,8 +1,13 @@
+using System.Collections.Immutable;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+string ConString = builder.Configuration.GetConnectionString("constring");
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConString));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

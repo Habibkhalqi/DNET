@@ -1,0 +1,46 @@
+@page
+@model MyRegistrationFrom.Pages.StudentRg
+
+
+<div class="row">
+    <div class="col-3"></div>
+    <div class="col-6">
+        <form class="row g-3 border" method="post">
+            <h2 class="text-center">Student Registration Form</h2>
+            <hr>
+            <div class="col-md-6">
+                <label class="form-label">Name</label>
+                <input class="form-control"  asp-for="Rg.name">
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">FatherName</label>
+                <input class="form-control" asp-for="Rg.FatherName">
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">CNIC</label>
+                <input class="form-control" asp-for="Rg.CNIC">
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Phone</label>
+                <input class="form-control" asp-for="Rg.phone" >
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">Class</label>
+                <input class="form-control" asp-for="Rg.Class">
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">Session</label>
+                <input class="form-control" asp-for="Rg.Session">
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">Semester</label>
+                <input class="form-control" asp-for="Rg.semester">
+            </div>
+
+            <div class="col-12">
+                <input type="submit" class="btn btn-primary" value="Register Now">
+            </div>
+        </form>
+    </div>
+    <div class="col-3"></div>
+</div>
