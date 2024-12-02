@@ -13,9 +13,10 @@ public class StudentRg : PageModel
     }
     [BindProperty]
     public StudentReg Rg { get; set; }
-    public void OnPost()
+    public IActionResult OnPost()
     {
         db.tbl_MSR.Add(Rg);
         db.SaveChanges();
+        return RedirectToPage("StudentRg");
     }
 }

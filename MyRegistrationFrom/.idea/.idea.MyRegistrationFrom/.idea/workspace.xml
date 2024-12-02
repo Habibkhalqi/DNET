@@ -10,42 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd1dd24-c142-420b-b4e1-f532fa0bf150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Data/AppDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Model/StudentReg.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyRegistrationFrom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyRegistrationFrom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/MyRegistrationFrom.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/MyRegistrationFrom.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/Index.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/ref/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/ref/MyRegistrationFrom.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/refint/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/refint/MyRegistrationFrom.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/MyRegistrationFrom.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +133,9 @@
       <updated>1732971336466</updated>
       <workItem from="1732971337529" duration="8096000" />
       <workItem from="1732996959273" duration="8989000" />
+      <workItem from="1733084974129" duration="3378000" />
+      <workItem from="1733089153804" duration="117000" />
+      <workItem from="1733175173311" duration="3098000" />
     </task>
     <servers />
   </component>
