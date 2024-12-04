@@ -4,25 +4,25 @@ using MyRegistrationFrom.Model;
 
 namespace MyRegistrationFrom.Pages;
 
-public class StudentRg : PageModel
+public class UpdateStudent : PageModel
 {
     private AppDbContext db;
-    public StudentRg(AppDbContext _db)
+
+    public UpdateStudent(AppDbContext _db)
     {
         db = _db;
     }
     [BindProperty]
     public StudentReg Rg { get; set; }
+    public void OnGet(int id)
+    {
+        Rg = db.tbl_MSR.Find(id);
+    }
+
     public IActionResult OnPost()
     {
-        if (ModelState.IsValid)
-        {
-            db.tbl_MSR.Add(Rg);
-            db.SaveChanges();
-            return RedirectToPage("StudentRg");
-        }
-        
-        return Page();
-        
+        db.tbl_MSR.Update(Rg);
+        db.SaveChanges();
+        return RedirectToPage("ShowStudent");
     }
 }

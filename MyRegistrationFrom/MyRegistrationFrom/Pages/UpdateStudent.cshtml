@@ -1,56 +1,45 @@
 @page
-@model MyRegistrationFrom.Pages.StudentRg
-
+@model MyRegistrationFrom.Pages.UpdateStudent
 
 <div class="row">
     <div class="col-3"></div>
     <div class="col-6">
-        <div asp-validation-summary="All">
-            
-        </div>
         <form class="row g-3 border" method="post">
             <h2 class="text-center">Student Registration Form</h2>
             <hr>
             <div class="col-md-6">
                 <label class="form-label">Name</label>
-                <input class="form-control" asp-for="Rg.name">
-                <span class="text-danger" asp-validation-for="Rg.name"></span>
+                <input class="form-control"  asp-for="Rg.name">
+                <input class="form-control"  readonly hidden asp-for="Rg.id">
             </div>
             <div class="col-md-6">
                 <label class="form-label">FatherName</label>
                 <input class="form-control" asp-for="Rg.FatherName">
-                <span class="text-danger" asp-validation-for="Rg.FatherName"></span>
             </div>
             <div class="col-md-6">
                 <label class="form-label">CNIC</label>
                 <input class="form-control" asp-for="Rg.CNIC">
-                <span class="text-danger" asp-validation-for="Rg.CNIC"></span>
             </div>
             <div class="col-md-6">
                 <label class="form-label">Phone</label>
-                <input class="form-control" asp-for="Rg.phone">
-                <span class="text-danger" asp-validation-for="Rg.phone"></span>
+                <input class="form-control" asp-for="Rg.phone" >
             </div>
             <div class="col-md-4">
                 <label class="form-label">Class</label>
                 <input class="form-control" asp-for="Rg.Class">
-                <span class="text-danger" asp-validation-for="Rg.Class"></span>
             </div>
             <div class="col-md-4">
                 <label class="form-label">Session</label>
                 <input class="form-control" asp-for="Rg.Session">
-                <span class="text-danger" asp-validation-for="Rg.Session"></span>
             </div>
             <div class="col-md-4">
                 <label class="form-label">Semester</label>
                 <input class="form-control" asp-for="Rg.semester">
-                <span class="text-danger" asp-validation-for="Rg.semester"></span>
             </div>
 
-            <div class="col-6">
-                <input type="submit" class="btn btn-primary" value="Register Now">
+            <div class="col-12">
+                <input type="submit" class="btn btn-primary" value="Update Now">
             </div>
-         
         </form>
     </div>
     <div class="col-3"></div>
