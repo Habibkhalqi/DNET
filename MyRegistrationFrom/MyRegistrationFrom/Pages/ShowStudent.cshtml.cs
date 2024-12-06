@@ -24,6 +24,7 @@ public class ShowStudent : PageModel
     {
        var DeleteData = db.tbl_MSR.Find(id);
            db.tbl_MSR.Remove(DeleteData);
+           db.SaveChanges();
            return RedirectToPage("ShowStudent");
            
     }

@@ -10,20 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd1dd24-c142-420b-b4e1-f532fa0bf150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/UpdateStudent.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/UpdateStudent.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyRegistrationFrom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyRegistrationFrom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Model/StudentReg.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Model/StudentReg.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/StudentRg.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/Pages/ShowStudent.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/bin/Debug/net8.0/MyRegistrationFrom.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyRegistrationFrom/obj/Debug/net8.0/MyRegistrationFrom.sourcelink.json" afterDir="false" />
@@ -141,6 +133,7 @@
       <workItem from="1733226026799" duration="4457000" />
       <workItem from="1733260039191" duration="3159000" />
       <workItem from="1733336492956" duration="1557000" />
+      <workItem from="1733480903935" duration="2744000" />
     </task>
     <servers />
   </component>
